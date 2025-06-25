@@ -56,9 +56,9 @@ Dari data tersebut, kita bisa mencari GNPV dengan menentukan:
 dari komponen yang telah didapat, selanjutnya GNPV bisa dihitung.
 
 ---
-[^1] : [harga karbon](https://www.tempo.co/ekonomi/ri-resmi-luncurkan-perdagangan-karbon-internasional-harga-rp-96-ribu-dan-rp-144-ribu-per-ton-1196430)  
-[^2] : [Suku Bunga](https://id.tradingeconomics.com/indonesia/interest-rate)  
-[^3] : [masa pakai PLTS](https://lestari.kompas.com/read/2023/06/17/170000686/berapa-lama-masa-pakai-plts-)
+[^1]: [harga karbon](https://www.tempo.co/ekonomi/ri-resmi-luncurkan-perdagangan-karbon-internasional-harga-rp-96-ribu-dan-rp-144-ribu-per-ton-1196430)  
+[^2]: [Suku Bunga](https://id.tradingeconomics.com/indonesia/interest-rate)  
+[^3]: [masa pakai PLTS](https://lestari.kompas.com/read/2023/06/17/170000686/berapa-lama-masa-pakai-plts-)
 <!-- [^2] : [harga listrik 2025](https://money.kompas.com/read/2025/06/20/101721226/rincian-tarif-listrik-per-20-juni-2025-untuk-semua-golongan-pelanggan)  
 [^3] : [konversi pengurangan emisi dari PLTS](https://www.hmenergi.com/jejak-karbon-panel-surya-tidak-lebih-buruk-dari-batu-bara/#:~:text=1%20Panel%20surya%20menghasilkan%200%20gram%20per%20kWh,batu%20bara%20menghasilkan%202%2C23%20pon%20CO2%20per%20kWh)   -->
 
@@ -105,8 +105,8 @@ Dari data tersebut, kita bisa mencari CROI dengan menentukan:
 dari komponen yang telah didapat, selanjutnya CROI bisa dihitung.
 
 ---
-[^1] : [harga karbon](https://www.tempo.co/ekonomi/ri-resmi-luncurkan-perdagangan-karbon-internasional-harga-rp-96-ribu-dan-rp-144-ribu-per-ton-1196430)  
-[^2] : [masa pakai PLTS](https://lestari.kompas.com/read/2023/06/17/170000686/berapa-lama-masa-pakai-plts-)
+[^1]: [harga karbon](https://www.tempo.co/ekonomi/ri-resmi-luncurkan-perdagangan-karbon-internasional-harga-rp-96-ribu-dan-rp-144-ribu-per-ton-1196430)  
+[^2]: [masa pakai PLTS](https://lestari.kompas.com/read/2023/06/17/170000686/berapa-lama-masa-pakai-plts-)
 
 ---
 ## 3. Social
@@ -148,7 +148,7 @@ Dari data tersebut, kita bisa mencari SROI dengan menentukan:
 dari komponen yang telah didapat, selanjutnya SROI bisa dihitung.
 
 ---
-[^1] : [masa pakai PLTS](https://lestari.kompas.com/read/2023/06/17/170000686/berapa-lama-masa-pakai-plts-)
+[^1]: [masa pakai PLTS](https://lestari.kompas.com/read/2023/06/17/170000686/berapa-lama-masa-pakai-plts-)
 
 ---
 ## 4. Economic
@@ -199,7 +199,7 @@ Dari data tersebut, kita bisa mencari ERAF dengan menentukan:
 dari komponen yang telah didapat, selanjutnya ERAF bisa dihitung.
 
 ---
-[^1] : [BI Rate](https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_278425.aspx#:~:text=BI%2DRate%20Tetap%205%2C75,Mempertahankan%20Stabilitas%2C%20Mendukung%20Pertumbuhan%20Ekonomi)  
+[^1]: [BI Rate](https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_278425.aspx#:~:text=BI%2DRate%20Tetap%205%2C75,Mempertahankan%20Stabilitas%2C%20Mendukung%20Pertumbuhan%20Ekonomi)  
 
 ---
 
